@@ -4,10 +4,12 @@ if you are using a distro which is relatively old to te current ones and contain
 installing from source is the best.
 
 1> DEPENDENCIES FIRST:
-                    debian : 
-                    ```
-                    $ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
-                    libz-dev libssl-dev
-                    ```
-                    fedora :
-                   
+debian : 
+``
+$ apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \
+libz-dev libssl-dev
+``
+
+fedora :
+$ yum install curl-devel expat-devel gettext-devel \
+openssl-devel zlib-devel perl-devel asciidoc xmlto
