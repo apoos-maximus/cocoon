@@ -28,3 +28,18 @@ $ cd git-1.7.2.2
 $ make prefix=/usr/local all
 $ sudo make prefix=/usr/local install
 `
+## 4>get git via git
+`
+$ git clone git://git.kernel.org/pub/scm/git/git.git
+`
+
+# INSTALLING ON LINUX
+### debian :
+``
+apt-get install git
+``
+
+### fedora :
+``
+yum install git
+``
