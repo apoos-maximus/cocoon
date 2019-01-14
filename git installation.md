@@ -43,3 +43,7 @@ apt-get install git
 ``
 yum install git
 ``
+# SET COMMIT EMAIL ADDRESSES
+`
+https://help.github.com/articles/setting-your-commit-email-address-in-git/
+`
