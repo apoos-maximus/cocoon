@@ -2,9 +2,9 @@
 `
 git-scm documentation: pro-git
 `
-`
+
 https://git-scm.com/book/en/v2
-`
+
 # INSTALL FROM SOURCE
 installing from source will get you the latest version of git - - UI enhancements
 if you are using a distro which is relatively old to te current ones and contains old packages 
@@ -51,6 +51,5 @@ apt-get install git
 yum install git
 ``
 # SET COMMIT EMAIL ADDRESSES
-`
+
 https://help.github.com/articles/setting-your-commit-email-address-in-git/
-`
