@@ -1,3 +1,8 @@
+
+`
+git-scm documentation: pro-git
+https://git-scm.com/book/en/v2
+`
 # INSTALL FROM SOURCE
 installing from source will get you the latest version of git - - UI enhancements
 if you are using a distro which is relatively old to te current ones and contains old packages 
