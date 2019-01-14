@@ -53,3 +53,15 @@ yum install git
 # SET COMMIT EMAIL ADDRESSES
 
 https://help.github.com/articles/setting-your-commit-email-address-in-git/
+
+# getting help --commmands etc
+``
+$ git help <verb>
+$ man git-<verb>
+``
+eg.
+`
+$ git help config
+`
+
+
