@@ -13,7 +13,8 @@ command :
 `
 `Enter a file in which to save the key (/home/you/.ssh/id_rsa): [Press enter]
 `
-`Enter passphrase (empty for no passphrase): [Type a passphrase]
+`
+Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type passphrase again]
 `
 
