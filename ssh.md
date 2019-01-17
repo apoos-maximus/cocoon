@@ -9,11 +9,9 @@ command :
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 `
 
-`Generating public/private rsa key pair.
 `
-`Enter a file in which to save the key (/home/you/.ssh/id_rsa): [Press enter]
-`
-`
+Generating public/private rsa key pair.
+Enter a file in which to save the key (/home/you/.ssh/id_rsa): [Press enter]
 Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type passphrase again]
 `
