@@ -29,12 +29,17 @@ http://git-scm.com/download
 `
 
 ## 3>compile and install
-`
+``
+
 $ tar -zxf git-1.7.2.2.tar.gz
+
 $ cd git-1.7.2.2
+
 $ make prefix=/usr/local all
+
 $ sudo make prefix=/usr/local install
-`
+
+``
 ## 4>get git via git
 `
 $ git clone git://git.kernel.org/pub/scm/git/git.git
